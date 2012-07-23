@@ -2,3 +2,6 @@ this is a test
 
 
 added a new line
+
+
+nslog();
