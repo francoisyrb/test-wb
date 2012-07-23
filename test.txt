@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 this is a test
 s
+=======
+sss≈this is a test
+
+>>>>>>> test
 
 added a new line
 
