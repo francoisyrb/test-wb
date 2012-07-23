@@ -8,8 +8,15 @@ sss≈this is a test
 
 added a new line
 
+<<<<<<< HEAD
 
 nslog();
 
 
 dasdsadasda
+=======
+I added another line
+
+
+asdasdasdasdasdasdas
+>>>>>>> sd
